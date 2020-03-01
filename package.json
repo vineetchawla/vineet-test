@@ -1,0 +1,14 @@
+{
+  "name": "vineet-yunar",
+  "version": "0.0.1",
+  "description": "Schedule planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vineet Chawla",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.1.1"
+  }
+}
